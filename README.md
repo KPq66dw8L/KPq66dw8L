@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 # 👨‍💻 About Me
 
-Hi! I’m Julien, a 21-year-old French computer science master's student in Clermont-Ferrand. I'm currently learning more about cybersecurity and DevOps in autonomy and I'm always willing to join a collaborative project ! 
+Hi! I’m Julien, a 22-year-old French computer science master's student in Clermont-Ferrand. I'm currently learning more about DevOps and Data Analysis in autonomy and via an internship; and I'm always willing to join a collaborative project ! 
 
-Check my website at https://portfolio-julien-f115c13e2930.herokuapp.com/
-![](https://github.com/KPq66dw8L/KPq66dw8L/blob/master/portfolio-url.png)
+
 
 <br>
 
